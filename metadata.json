@@ -1,0 +1,5 @@
+{
+  "name": "多平台文案生成系统",
+  "description": "输入主题或选择热门新闻，一键生成微信公众号、小红书、微博等多平台文案及配图。",
+  "requestFramePermissions": []
+}
